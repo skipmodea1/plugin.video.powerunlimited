@@ -2,12 +2,12 @@
 # Imports
 #
 from BeautifulSoup import BeautifulSoup
-from powerunlimited_const import __settings__, __language__, __images_path__, __addon__, __plugin__, __author__, __url__, __date__, __version__
+from powerunlimited_const import __addon__, __settings__, __language__, __images_path__, __date__, __version__
 from powerunlimited_utils import HTTPCommunicator
 import os
 import re
 import sys
-import urllib
+import urllib, urllib2
 import urlparse
 import xbmc
 import xbmcaddon
@@ -20,7 +20,7 @@ import xbmcplugin
 class Main:
     def __init__( self ):
         #
-        # All
+        # Alles
         #
         parameters = {"action" : "list", "plugin_category" : __language__(30000), "url" : "http://www.pu.nl/media/?page=001", "next_page_possible": "True"}
         url = sys.argv[0] + '?' + urllib.urlencode(parameters)
@@ -29,7 +29,7 @@ class Main:
         xbmcplugin.addDirectoryItem( handle = int(sys.argv[ 1 ] ), url = url, listitem=listitem, isFolder=folder)
         
         #
-        # PowerUnlimited Tv
+        # PU-TV
         #
         parameters = {"action" : "list", "plugin_category" : __language__(30001), "url" : "http://www.pu.nl/media/pu-tv/?page=001", "next_page_possible": "True"}
         url = sys.argv[0] + '?' + urllib.urlencode(parameters)

@@ -10,7 +10,6 @@
 #   * PowerUnlimited                                                        [http://www.pu.nl]
 #   * Team XBMC @ XBMC.org                                                  [http://xbmc.org/]
 #   * Leonard Richardson <leonardr@segfault.org> - BeautifulSoup            [http://www.crummy.com/software/BeautifulSoup/]
-#   * Eric Lawrence <e_lawrence@hotmail.com>     - Fiddler Web Debugger     [http://www.fiddler2.com]
 #
 
 # 
@@ -18,11 +17,8 @@
 #
 #also in ..._const
 __addon__       = "plugin.video.powerunlimited"
-__plugin__      = "PowerUnlimited"
-__author__      = "Skipmode A1"
-__url__         = ""
-__date__        = "17 march 2013"
-__version__     = "1.0"
+__date__        = "8 april 2013"
+__version__     = "1.0.0"
 
 #
 # Imports
@@ -30,7 +26,7 @@ __version__     = "1.0"
 import os
 import re
 import sys
-import urllib
+import urllib, urllib2
 import urlparse
 import xbmc
 import xbmcaddon
