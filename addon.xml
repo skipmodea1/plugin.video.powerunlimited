@@ -16,7 +16,10 @@
 	<platform>all</platform>
 	<summary lang="en">Watch videos from PowerUnlimited Tv (dutch)</summary>
 	<description lang="en">Watch videos from PowerUnlimited Tv (dutch)</description>
-	<disclaimer lang="en">For bugs, requests or general questions visit the HardwareInfo thread on the XBMC forum.</disclaimer>
+	<disclaimer lang="en">For bugs, requests or general questions visit the PowerUnlimited Tv thread on the XBMC forum.</disclaimer>
+	<summary lang="nl">Bekijk videos van PowerUnlimited Tv (dutch)</summary>
+	<description lang="nl">Bekijk videos van PowerUnlimited Tv (dutch)</description>
+	<disclaimer lang="nl">Bugs of andere feedback op deze plugin kan geplaatst worden in de PowerUnlimited Tv thread op het XBMC forum.</disclaimer>
     <language>nl</language>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
