@@ -17,7 +17,7 @@
 #
 #also in ..._const
 __addon__       = "plugin.video.powerunlimited"
-__date__        = "8 april 2013"
+__date__        = "28 august 2014"
 __version__     = "1.0.0"
 
 #
