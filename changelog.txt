@@ -1,4 +1,4 @@
-v1.0.1 (Wednesday, 3 september 2014):
+v1.0.1 (Saturday, 6 september 2014):
 - fixed GNU licence
 - added youtube as dependency
 - added forum link
