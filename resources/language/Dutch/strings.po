@@ -24,8 +24,8 @@ msgid "Watch videos from PowerUnlimited Tv (dutch)"
 msgstr "Bekijk videos van PowerUnlimited Tv (dutch)"
 
 msgctxt "Addon Disclaimer"
-msgid "For bugs, requests or general questions visit the PowerUnlimited Tv thread on the XBMC forum."
-msgstr "Bugs of andere feedback op deze plugin kan geplaatst worden in de PowerUnlimited Tv thread op het XBMC forum."
+msgid "For bugs, requests or general questions visit the PowerUnlimited Tv thread on the Kodi forum."
+msgstr "Bugs of andere feedback op deze plugin kan geplaatst worden in de PowerUnlimited Tv thread op het Kodi forum."
 
 msgctxt "#30000"
 msgid "All Videos"
