@@ -1,3 +1,6 @@
+v1.0.7-SNAPSHOT (2017-06-28)
+- removed looking for video dialogue
+
 v1.0.6 (2017-06-20):
 - fixed getting video due to website change
 
