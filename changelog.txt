@@ -1,5 +1,8 @@
-v1.0.7-SNAPSHOT (2017-06-28)
+v1.0.7-SNAPSHOT (2018-01-06)
 - removed looking for video dialogue
+- addon now works in kode python 2 and also 3 (!!) thanks to the future project
+- addon.xml contains NOT YET SUPPORTED python3 tag
+- improved the finding of thumbnails
 
 v1.0.6 (2017-06-20):
 - fixed getting video due to website change
