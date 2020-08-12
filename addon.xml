@@ -25,7 +25,7 @@
 	<disclaimer lang="nl">Bugs of andere feedback op deze plugin kan geplaatst worden in de PowerUnlimited Tv thread op het XBMC forum.</disclaimer>
     <language>nl</language>
     <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+    <license>GPL-2.0-or-later</license>
     <forum>http://forum.xbmc.org/showthread.php?tid=203211</forum>
     <website>http://www.pu.nl/</website>
     <email></email>
